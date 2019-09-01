@@ -14,9 +14,9 @@ import { MonoText } from '../components/StyledText';
 
 export default class HomeScreen extends React.Component {
   
-  componentDidMount(){
-    console.log(this.props)
-  }
+  // componentDidMount(){
+  //   console.log(this.props)
+  // }
   
  handleHelpPress=()=> {
     // WebBrowser.openBrowserAsync(
